@@ -6,8 +6,9 @@ public class AudioManager : MonoBehaviour
 {
 
     public AudioClip walk;
+    public bool isWalking;
     private AudioSource audioSource;
-
+    
     void Awake()
     {
         audioSource= GetComponent<AudioSource>();
@@ -15,25 +16,30 @@ public class AudioManager : MonoBehaviour
 
     void Start() 
     {
-
+        isWalking = false;
     }
 
-    public void AudioWalkStart()
+    public void AudioWalk()
     {
-        audioSource.clip = walk;
+        isWalking = true;
         StartCoroutine(WaitAudioWalk());
     }
 
-    public void AudioWalkStop()
-    {
-        audioSource.Stop();
-    }
 
     public IEnumerator WaitAudioWalk()
 	{
-		audioSource.Play();
-        yield return new WaitForSeconds(0.576f);
-	}
+        audioSource.PlayOneShot(walk, 1f);
+        yield return new WaitForSeconds(1.576f);
+        isWalking = false;
+    }
+
+    private void Update() 
+    {
+       if (isWalking == true){
+            AudioWalk();
+        }
+    
+    }
 }
 
 
