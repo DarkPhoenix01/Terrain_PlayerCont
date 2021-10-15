@@ -5,41 +5,49 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
 
-    public AudioClip walk;
-    public bool isWalking;
+    public AudioClip step1;
+    public AudioClip step2;
+    public float stepDuration;
+
     private AudioSource audioSource;
-    
-    void Awake()
+    private int stepCount;
+    private bool isPlaying;
+
+    private void Awake()
     {
-        audioSource= GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>();
     }
 
-    void Start() 
+    // Start is called before the first frame update
+    void Start()
     {
-        isWalking = false;
+        stepCount = 0;
+        isPlaying = false;
     }
 
-    public void AudioWalk()
+    public void PlayStep()
     {
-        isWalking = true;
-        StartCoroutine(WaitAudioWalk());
-    }
-
-
-    public IEnumerator WaitAudioWalk()
-	{
-        audioSource.PlayOneShot(walk, 1f);
-        yield return new WaitForSeconds(1.576f);
-        isWalking = false;
-    }
-
-    private void Update() 
-    {
-       if (isWalking == true){
-            AudioWalk();
+        if (isPlaying == false)
+        {
+            isPlaying = true;
+            stepCount++;
+            if (stepCount % 2 == 1)
+            {
+                audioSource.PlayOneShot(step1, 1f);
+            }
+            else
+            {
+                audioSource.PlayOneShot(step2, 1f);
+            }
+            StartCoroutine(WaitStepTime());
         }
-    
     }
-}
 
+    IEnumerator WaitStepTime()
+    {
+        yield return new WaitForSeconds(stepDuration);
+        isPlaying = false;
+    }
+
+}
 

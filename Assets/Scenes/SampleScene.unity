@@ -566,7 +566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 43a29e70a166e5f44992e32dc9d78820, type: 3}
       propertyPath: m_RootOrder
-      value: 35
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 43a29e70a166e5f44992e32dc9d78820, type: 3}
       propertyPath: m_LocalPosition.x
@@ -782,7 +782,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 43a29e70a166e5f44992e32dc9d78820, type: 3}
       propertyPath: m_Name
-      value: Male_06_V01
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 43a29e70a166e5f44992e32dc9d78820, type: 3}
       propertyPath: m_Layer
@@ -2072,6 +2072,7 @@ GameObject:
   - component: {fileID: 1068516830}
   - component: {fileID: 1068516829}
   - component: {fileID: 1068516828}
+  - component: {fileID: 1068516831}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -2091,7 +2092,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6a0a142493f607449c57b85ff5ddb9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walk: {fileID: 8300000, guid: 572f373e3f382014d863d0f1205197f1, type: 3}
+  step1: {fileID: 8300000, guid: 4b2b9f69ceabd7d45acbdb44c93c738e, type: 3}
+  step2: {fileID: 8300000, guid: c8c8747cd422d5e45abab0750665e980, type: 3}
+  stepDuration: 0.5
 --- !u!82 &1068516829
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2202,6 +2205,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1068516831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068516827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd98302a51232e4ab3e9555c98b555d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1436507740}
 --- !u!1001 &1099458361
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2316,6 +2332,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbd0b3ad55adbb2449d91dce8172900a, type: 3}
+--- !u!1 &1207311430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1207311431}
+  m_Layer: 8
+  m_Name: SpecialZone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1207311431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1207311430}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 451.77, y: 30.26, z: 473.94}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1230253343
 GameObject:
   m_ObjectHideFlags: 0
@@ -2398,6 +2444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1254269479}
   - component: {fileID: 1254269478}
+  - component: {fileID: 1254269480}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -2515,6 +2562,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1254269480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254269477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bce4b10f0fea064f93a4775a7b827c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1300160740
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2790,7 +2849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26e54e5a728a9234ab24fcf1460ed8a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioControler: {fileID: 1068516827}
+  isMoving: 0
   MoveSpeed: 2
   SprintSpeed: 5.335
   RotationSmoothTime: 0.12
