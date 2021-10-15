@@ -842,3 +842,452 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 865.309993 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FireShield.prefab
+  artifactKey: Guid(cdcef964cb1147842be1b5c01ac964f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FireShield.prefab using Guid(cdcef964cb1147842be1b5c01ac964f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a4fb49d6b43bd960476deb0441b979') in 0.162814 seconds 
+  Import took 0.167576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FrozenEffect1.prefab
+  artifactKey: Guid(12caa16c1df3e1a4aa82b342c9b163c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FrozenEffect1.prefab using Guid(12caa16c1df3e1a4aa82b342c9b163c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e45a6550b1a0af19916819feaf4e2ad') in 0.158730 seconds 
+  Import took 0.162820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/SlimeEffect.prefab
+  artifactKey: Guid(9bfb96fd59cfdec4c884e3c56c11c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/SlimeEffect.prefab using Guid(9bfb96fd59cfdec4c884e3c56c11c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c8e6c38db50339fbb8fa22159400c2') in 0.221405 seconds 
+  Import took 0.226180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport3.prefab
+  artifactKey: Guid(f6e43f8a761ffb741bb2c1772f1c3663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport3.prefab using Guid(f6e43f8a761ffb741bb2c1772f1c3663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d08405b3b26b90a4cf3df602478d4c2') in 0.059304 seconds 
+  Import took 0.063777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/RadiationAura.prefab
+  artifactKey: Guid(fe1ddb43b94a0c84dacc624c876476a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/RadiationAura.prefab using Guid(fe1ddb43b94a0c84dacc624c876476a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d207502d2e72de73cb90a6f0d042bc') in 0.039705 seconds 
+  Import took 0.044402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport2.prefab
+  artifactKey: Guid(f367e5eacde3af14790550f033560534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport2.prefab using Guid(f367e5eacde3af14790550f033560534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36220e3b835980d5aa2e4206b2ee039b') in 0.023375 seconds 
+  Import took 0.028483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/IgnitedEffect.prefab
+  artifactKey: Guid(1f8f15e5445026d49aaa96a0e2c9886a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/IgnitedEffect.prefab using Guid(1f8f15e5445026d49aaa96a0e2c9886a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef0a87ddd041002c04c9e442d04f36f') in 0.031482 seconds 
+  Import took 0.035978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Heal.prefab
+  artifactKey: Guid(d1ec698f49b315f44845eaf9e7f4b14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Heal.prefab using Guid(d1ec698f49b315f44845eaf9e7f4b14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa13c53b8fd30a39462397a61fe81d7c') in 0.026127 seconds 
+  Import took 0.030452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FrozenEffect2.prefab
+  artifactKey: Guid(d3b4758fd192acc41ae74fc5081e3442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/FrozenEffect2.prefab using Guid(d3b4758fd192acc41ae74fc5081e3442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc856bf9b746b50e1e0d2e099c4b499') in 0.021438 seconds 
+  Import took 0.026097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport1.prefab
+  artifactKey: Guid(bd91203b731f1c04d9677ec8cc606e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Auras/Teleport1.prefab using Guid(bd91203b731f1c04d9677ec8cc606e7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd983088c648820e2ea71670fe492479c') in 0.027397 seconds 
+  Import took 0.033528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.296067 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/FrostBomb.prefab
+  artifactKey: Guid(1e090adda7918814b8636f9a5aaad040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/FrostBomb.prefab using Guid(1e090adda7918814b8636f9a5aaad040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607fa31a5c9ea732cb5084a172650bac') in 0.197289 seconds 
+  Import took 0.203062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/SlimeBall.prefab
+  artifactKey: Guid(5fc5dfabda724bd468abb026f9338663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/SlimeBall.prefab using Guid(5fc5dfabda724bd468abb026f9338663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ec3f9c8e73b53415b0d99b4add1032') in 0.046683 seconds 
+  Import took 0.052027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/SlimeBomb.prefab
+  artifactKey: Guid(c104d65324a2c614bbe6b0f55c0c4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Balls/SlimeBomb.prefab using Guid(c104d65324a2c614bbe6b0f55c0c4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15cee8156bc286e9ddc188bd6a2b6b13') in 0.038744 seconds 
+  Import took 0.043262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.228949 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/BlackHole.prefab
+  artifactKey: Guid(003ebb48245afa54883138bac95909e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/BlackHole.prefab using Guid(003ebb48245afa54883138bac95909e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a998619b050bad61bf35a0471648dbe') in 0.125720 seconds 
+  Import took 0.130755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Shackles.prefab
+  artifactKey: Guid(140170094c5df1c48a7355c22f2a3618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Shackles.prefab using Guid(140170094c5df1c48a7355c22f2a3618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6d50eaf8f1b8afe30def1e790d7828') in 0.035484 seconds 
+  Import took 0.040051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/MagicExplosion.prefab
+  artifactKey: Guid(2687398e850b5ec44867c67e9145d9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/MagicExplosion.prefab using Guid(2687398e850b5ec44867c67e9145d9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72777ad152d4be3ad357b41adc3e5620') in 0.169299 seconds 
+  Import took 0.175104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Nexus.prefab
+  artifactKey: Guid(dcf60ac510f539a4e8778f86592f632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Nexus.prefab using Guid(dcf60ac510f539a4e8778f86592f632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd831cccf9e37ed6ec3a3a1efa85e9d') in 0.031988 seconds 
+  Import took 0.036623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Shadow.prefab
+  artifactKey: Guid(48932938c54c7a247bf2694f91d09fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/Shadow.prefab using Guid(48932938c54c7a247bf2694f91d09fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756903524d033e97062b7520cc82eae0') in 0.056569 seconds 
+  Import took 0.062354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/GlowingTree.prefab
+  artifactKey: Guid(f1bfd60b36dcb204fb9520485af9e7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/GlowingTree.prefab using Guid(f1bfd60b36dcb204fb9520485af9e7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d03ea934dbe64f4e0b1eb633e7c89b') in 0.023157 seconds 
+  Import took 0.028405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/FireJetPack.prefab
+  artifactKey: Guid(2c4aa57d3a84ffb478a57260f2da5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Objects/FireJetPack.prefab using Guid(2c4aa57d3a84ffb478a57260f2da5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a233cbf3bc93a4ea1a226de1637b1544') in 0.048800 seconds 
+  Import took 0.055474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.428773 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Rockets/InfernoRocket.prefab
+  artifactKey: Guid(a79be8b72b8e99e46b7ce4285f14e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Rockets/InfernoRocket.prefab using Guid(a79be8b72b8e99e46b7ce4285f14e8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149f90860d8d05d302da5fa5ff8dbca5') in 0.039627 seconds 
+  Import took 0.045604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.601824 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/FireRay.prefab
+  artifactKey: Guid(202b33b5d35ea7e4dbcee51026126187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/FireRay.prefab using Guid(202b33b5d35ea7e4dbcee51026126187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944cd86186d2571a2d705affaa816e18') in 0.031847 seconds 
+  Import took 0.037094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/RedPlasmaGun.prefab
+  artifactKey: Guid(0d802e1a08bc890489e1b3d70d6dd69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/RedPlasmaGun.prefab using Guid(0d802e1a08bc890489e1b3d70d6dd69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f199406a972c20119ebb93c3fb3ffca') in 0.031530 seconds 
+  Import took 0.037835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/FrostRay.prefab
+  artifactKey: Guid(fbaf9e9984344574ba5d82b79ab05331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/FrostRay.prefab using Guid(fbaf9e9984344574ba5d82b79ab05331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f437c338b6ee98c4825eda1d405e76a4') in 0.045555 seconds 
+  Import took 0.051384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/IceArrows.prefab
+  artifactKey: Guid(d360dff7b53ebdb4ea755ac0639b394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/IceArrows.prefab using Guid(d360dff7b53ebdb4ea755ac0639b394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12bc11b06d3bbbaca875e7705cba67b') in 0.037419 seconds 
+  Import took 0.042571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/PhotonShot.prefab
+  artifactKey: Guid(8f657daeca048f64e96c33510eb6846a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Shots/PhotonShot.prefab using Guid(8f657daeca048f64e96c33510eb6846a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9535baa034d33f2c52ea4c5b7f96e2fe') in 0.030118 seconds 
+  Import took 0.035207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.194385 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/Afterburn.prefab
+  artifactKey: Guid(d4e03e97d356f0b458378d3feba8f819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/Afterburn.prefab using Guid(d4e03e97d356f0b458378d3feba8f819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76391ec750192aaa7ff01bcb0a5ceefc') in 0.033224 seconds 
+  Import took 0.038459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/ExplosionBall.prefab
+  artifactKey: Guid(9e33ac0b05d91cb4f9f0ef16c6dbf694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/ExplosionBall.prefab using Guid(9e33ac0b05d91cb4f9f0ef16c6dbf694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d13f631f53423707e74f83f9ae058b3') in 0.035583 seconds 
+  Import took 0.040361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GroundRay.prefab
+  artifactKey: Guid(a663614dc6417744dacf182c54788e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GroundRay.prefab using Guid(a663614dc6417744dacf182c54788e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9542837922e6cc612ebd4a133164c2') in 0.032104 seconds 
+  Import took 0.036826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FlameThrower.prefab
+  artifactKey: Guid(2061a3ba211373e4ea2213e0b7b6dbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FlameThrower.prefab using Guid(2061a3ba211373e4ea2213e0b7b6dbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d25c75f2c40e1c4757b1d491bbfebe') in 0.042408 seconds 
+  Import took 0.048058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FireTornado.prefab
+  artifactKey: Guid(b3f07507159838c489e4354b10cfe407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FireTornado.prefab using Guid(b3f07507159838c489e4354b10cfe407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b962894eca8ee721118794ee074a5c') in 0.033037 seconds 
+  Import took 0.038438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrostRoad.prefab
+  artifactKey: Guid(1a419fdeb4451fd4a895f23ba78a121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrostRoad.prefab using Guid(1a419fdeb4451fd4a895f23ba78a121b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2ab97d67287c982b726d723a40328e') in 0.033092 seconds 
+  Import took 0.038320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrozenMine.prefab
+  artifactKey: Guid(bb71dd9266380d2429717872a66dded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrozenMine.prefab using Guid(bb71dd9266380d2429717872a66dded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a2abfbcf1e91e7b19179bec4afb682') in 0.050130 seconds 
+  Import took 0.055464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrostTornado.prefab
+  artifactKey: Guid(25aca123de04f0c49b08fddf4bb72c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/FrostTornado.prefab using Guid(25aca123de04f0c49b08fddf4bb72c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4275d8e5a432efc2d9fd33cd8113c5a') in 0.032170 seconds 
+  Import took 0.037106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GammaBeam.prefab
+  artifactKey: Guid(8b74f376861655642a0ca4db513f6b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GammaBeam.prefab using Guid(8b74f376861655642a0ca4db513f6b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f343f0adaafafc4cd7777b576019979') in 0.025109 seconds 
+  Import took 0.029924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GroundWave.prefab
+  artifactKey: Guid(054e6134fa8c68b479991cc2cc24db7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/GroundWave.prefab using Guid(054e6134fa8c68b479991cc2cc24db7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802829bf7d56bae4f87f09425fc9d3a9') in 0.022538 seconds 
+  Import took 0.027732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/WaterJet.prefab
+  artifactKey: Guid(68ee34f1a8321c44fb37704543f8cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/WaterJet.prefab using Guid(68ee34f1a8321c44fb37704543f8cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae592edaa5a7c10da8d1ce623fb7ffe') in 0.026824 seconds 
+  Import took 0.032172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/EnergyExplosion.prefab
+  artifactKey: Guid(dc5c466b942a2ac4b834986af9e361c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KriptoFX/Realistic Effects Pack 3/Prefabs/Waves/EnergyExplosion.prefab using Guid(dc5c466b942a2ac4b834986af9e361c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ab015a924057c51ea877443991a110') in 0.040771 seconds 
+  Import took 0.045898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.548237 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Energy explosion.prefab
+  artifactKey: Guid(d79f03dd3c9b07c41a430faecdcdf500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Energy explosion.prefab using Guid(d79f03dd3c9b07c41a430faecdcdf500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87831c2364f14fbb94d646f057e55595') in 0.037928 seconds 
+  Import took 0.043616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor 2.prefab
+  artifactKey: Guid(45ae8ce3527dfcf46933282f370e9275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor 2.prefab using Guid(45ae8ce3527dfcf46933282f370e9275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00ec57693f34acfc24f24f96ff50bd0') in 0.042126 seconds 
+  Import took 0.047802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor shower 2.prefab
+  artifactKey: Guid(9fac195ef94109246bdeb29d75467e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor shower 2.prefab using Guid(9fac195ef94109246bdeb29d75467e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2cef3af4745aefb2c03869d1956e523') in 0.033749 seconds 
+  Import took 0.039042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Knives.prefab
+  artifactKey: Guid(76d29242e44bd1d4481337c8f53681ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Knives.prefab using Guid(76d29242e44bd1d4481337c8f53681ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0273da02fad20b8d217ef1c1c01be087') in 0.029759 seconds 
+  Import took 0.035171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Front spikes attack.prefab
+  artifactKey: Guid(7b11714ce9d7e1f47826b05270b779e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Front spikes attack.prefab using Guid(7b11714ce9d7e1f47826b05270b779e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4189b9e71583f213462fb97c53c4f8b5') in 0.165708 seconds 
+  Import took 0.171607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Leaves buff.prefab
+  artifactKey: Guid(3cefa829969829542bf182f16e268213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Leaves buff.prefab using Guid(3cefa829969829542bf182f16e268213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2607b0a586924de0da526da326b5c6df') in 0.061654 seconds 
+  Import took 0.066552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Magic hit.prefab
+  artifactKey: Guid(a32d87b33cadfed4b83eeaa564eb7724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Magic hit.prefab using Guid(a32d87b33cadfed4b83eeaa564eb7724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e49e776508dd064594605815d2f08f') in 0.037291 seconds 
+  Import took 0.042265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor hit 2.prefab
+  artifactKey: Guid(a7cb112e9339d01408d0002aede091cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor hit 2.prefab using Guid(a7cb112e9339d01408d0002aede091cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de21e0091f0c2200a8952180627ba409') in 0.025261 seconds 
+  Import took 0.030451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Lightning hit.prefab
+  artifactKey: Guid(b87545f0bb40e5f4d910e8c21aacafb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Lightning hit.prefab using Guid(b87545f0bb40e5f4d910e8c21aacafb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0842812275ff47b9c46ab783e2e55b4') in 0.023200 seconds 
+  Import took 0.028101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Flower slash.prefab
+  artifactKey: Guid(bd76aad308d231743b8d95dd2c02d6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Flower slash.prefab using Guid(bd76aad308d231743b8d95dd2c02d6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5016da12bc8c7a30e41c446126926718') in 0.029967 seconds 
+  Import took 0.035186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Knife hit.prefab
+  artifactKey: Guid(1c3dac94110955943a4e5707f432c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Knife hit.prefab using Guid(1c3dac94110955943a4e5707f432c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2286dac88e90b5865634ca813b4b4016') in 0.027247 seconds 
+  Import took 0.031773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Ise attack.prefab
+  artifactKey: Guid(18923174f2b0caa4d9dbc5fe46052f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Ise attack.prefab using Guid(18923174f2b0caa4d9dbc5fe46052f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e5b0a27274a5636ea713bfdec2fbab') in 0.025187 seconds 
+  Import took 0.029818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor hit.prefab
+  artifactKey: Guid(39e6808e995d14e46aae8b87bde2a278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor hit.prefab using Guid(39e6808e995d14e46aae8b87bde2a278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44d8daedf3695454520dc38a3a60b1a') in 0.034140 seconds 
+  Import took 0.039268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor.prefab
+  artifactKey: Guid(a91a44d8fe830874cb776823c2ba3e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor.prefab using Guid(a91a44d8fe830874cb776823c2ba3e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad0960bdf5d55540631a65b2b5b9d24') in 0.033156 seconds 
+  Import took 0.038922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor shower.prefab
+  artifactKey: Guid(801830a34b3285842a8be1b874330251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Meteor shower.prefab using Guid(801830a34b3285842a8be1b874330251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e0dfb3682dcf111402c9383a011416') in 0.031594 seconds 
+  Import took 0.036845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Magic attack.prefab
+  artifactKey: Guid(ec40dcc0df25c9c44bb4f938a05e1482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Magic attack.prefab using Guid(ec40dcc0df25c9c44bb4f938a05e1482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ce937d85a6fc2e38d3a25ca66f253b') in 0.031817 seconds 
+  Import took 0.037142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Lightning strike.prefab
+  artifactKey: Guid(dfabbd05c7735314e97de47b3d7695c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Prefabs/Lightning strike.prefab using Guid(dfabbd05c7735314e97de47b3d7695c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9376f559b925b167e98605b13a6f47c4') in 0.027185 seconds 
+  Import took 0.033056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.792765 seconds.
+  path: Assets/Hovl Studio/AOE Magic spells Vol.1/Materials/Stone1bcg.mat
+  artifactKey: Guid(891abf03fa8149741b24cfee8f04116f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hovl Studio/AOE Magic spells Vol.1/Materials/Stone1bcg.mat using Guid(891abf03fa8149741b24cfee8f04116f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397c0c340d7595135fe811d5fa0bc453') in 0.061608 seconds 
+  Import took 0.066300 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
