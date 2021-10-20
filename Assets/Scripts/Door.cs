@@ -5,9 +5,9 @@ using UnityEngine;
 public class Door : MonoBehaviour
 {
     public GameObject effectPreafb;
-    public GameObject effectCatch;
+    //public GameObject effectCatch;
     public Transform effect1Position;
-    public Transform effect2Position;
+    //public Transform effect2Position;
     
     private bool isNear;
     private bool isOpen;
@@ -15,7 +15,7 @@ public class Door : MonoBehaviour
     private void Start()
     {
         isNear = false;
-        isOpen = false;
+        //isOpen = false;
         
     }
 
@@ -27,10 +27,10 @@ public class Door : MonoBehaviour
             Instantiate(effectPreafb, effect1Position);
         }
 
-        if (isOpen == false)
+        /*if (isOpen == false)
         {
             isOpen = true;
             Instantiate(effectCatch, effect2Position);
-        }
+        }*/
     }
 }

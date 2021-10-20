@@ -13,7 +13,7 @@ public class ControlZones : MonoBehaviour
     {
         chestTouch=false;
         animation=GetComponent<Animator>();
-        animation.SetBool(Open, false);
+        animation.SetBool("Open", false);
     }
 
 
@@ -23,13 +23,17 @@ public class ControlZones : MonoBehaviour
         {
             other.gameObject.GetComponent<Door>().StartEffect();
             chestTouch=true;
-            if(Input.GetKeyDown(KeyCode.E))
-            {
-            chestTouch=false;
-            animation.SetBool("Open", true);
-            }
+            
         }
-        
+   
+    }
+
+    private void OnCollisionEnter(Collision other) 
+    {
+        if(other.gameObject.tag == "Chest")
+        {
+            animation.SetBool("Open", true);
+        }
     }
 
 
