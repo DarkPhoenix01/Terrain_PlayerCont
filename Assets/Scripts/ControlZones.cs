@@ -6,35 +6,51 @@ public class ControlZones : MonoBehaviour
 {
 
     public GameObject gameManager;
-    public Animator animation;
+    
     public bool chestTouch;
+    public int treasure=0;
 
     void Start()
     {
         chestTouch=false;
-        animation=GetComponent<Animator>();
-        animation.SetBool("Open", false);
+        
     }
 
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Chest")
+        if(other.tag == "energy")
         {
-            other.gameObject.GetComponent<Door>().StartEffect();
-            chestTouch=true;
-            
+            other.gameObject.GetComponent<Zones>().StartEffect();
+
+        } 
+        if (other.tag == "ChestArea")
+        {
+            other.gameObject.GetComponent<Area>().StartEffect();
+
         }
-   
+
+        if(other.tag == "Chest")
+        {
+            gameManager.GetComponent<GameManager>().AddTreasure();
+            StartCoroutine(Wait());
+            if(chestTouch==true)
+            {
+                other.gameObject.GetComponent<AreaChest>().StartEffect1();
+            }
+        }
+
+      
     }
 
-    private void OnCollisionEnter(Collision other) 
+    IEnumerator Wait()
     {
-        if(other.gameObject.tag == "Chest")
-        {
-            animation.SetBool("Open", true);
-        }
+        chestTouch=false;
+        yield return new WaitForSeconds(0.2f);
+        chestTouch=true;
+        
     }
+
 
 
 

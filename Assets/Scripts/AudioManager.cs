@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class AudioManager : MonoBehaviour
 {
@@ -10,12 +11,14 @@ public class AudioManager : MonoBehaviour
     public float stepDuration;
 
     private AudioSource audioSource;
+    
     private int stepCount;
     private bool isPlaying;
 
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
+        
     }
 
     // Start is called before the first frame update
@@ -24,6 +27,11 @@ public class AudioManager : MonoBehaviour
         stepCount = 0;
         isPlaying = false;
     }
+    void Update()
+    {
+       
+    }
+
 
     public void PlayStep()
     {
@@ -39,12 +47,14 @@ public class AudioManager : MonoBehaviour
             {
                 audioSource.PlayOneShot(step2, 1f);
             }
+            
             StartCoroutine(WaitStepTime());
         }
     }
 
     IEnumerator WaitStepTime()
     {
+        
         yield return new WaitForSeconds(stepDuration);
         isPlaying = false;
     }
